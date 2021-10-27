@@ -64,7 +64,7 @@ exports.verifyOtp = async function (req, res) {
               // console.log(message.sid);
             })
             .done();
-          res.status(200).send({ message: "sucess" });
+          res.status(200).send({ message: true });
         }
       }
     );

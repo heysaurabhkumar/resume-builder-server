@@ -14,7 +14,7 @@ exports.login = function (req, res) {
       console.log(error);
     } else {
       if (!user) {
-        res.status(401).send("Invalid email");
+        res.status(404).send("Email is not registered.");
       } else {
         const validPass = await bcrypt.compare(
           userData.password,
