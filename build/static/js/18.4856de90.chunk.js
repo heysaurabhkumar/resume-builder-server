@@ -1,0 +1,2 @@
+(this["webpackJsonpclient-react"]=this["webpackJsonpclient-react"]||[]).push([[18],{249:function(e,c,s){"use strict";s.r(c),s.d(c,"default",(function(){return a}));s(1);var t=s(0);function a(){return Object(t.jsx)(t.Fragment,{children:Object(t.jsx)("div",{className:"container",children:Object(t.jsxs)("div",{className:"row pt-5",children:[Object(t.jsx)("div",{className:"col-md-6 mx-auto",children:Object(t.jsx)("h1",{className:"",children:"Build Awesome Resume"})}),Object(t.jsx)("div",{className:"col-md-6 mx-auto"})]})})})}}}]);
+//# sourceMappingURL=18.4856de90.chunk.js.map
